@@ -1,5 +1,7 @@
 # TrueKhe
 
+[Presentacion](https://www.canva.com/design/DADhjaY4Z7Q/zf3FAD5VVDuJbsPvfo6oqA/view?utm_content=DADhjaY4Z7Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1)
+
 ## Road Map General
 
 ![RoadMapGeneral](https://imgbbb.com/images/2019/08/03/Trueque---Road-Map.jpg)
