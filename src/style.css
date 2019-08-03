@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC|Chakra+Petch&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC|Rajdhani&display=swap");
+
+* {
+  padding: 0%;
+  color: #999999;
+}
+
+.font-nav {
+  font-family: "Chakra Petch", sans-serif;
+  font-size: 20px;
+}
+
+.font-cont {
+  font-family: "Rajdhani", sans-serif;
+}
+
+.nav-color {
+  background-color: #fbc200;
+}
+
+.imgnav {
+  width: 78px;
+  margin-left: 21px;
+}
+.icono {
+  margin-left: 278px;
+}
